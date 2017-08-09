@@ -1,4 +1,4 @@
-# onehandedsolitaire
+# One-Handed Solitaire
 My implimentation of one-handed solitaire, an entirely probabilistic edition of solitaire introduced to me by Sophie Collerton, who based her dissertation on the game (hence the main class file name).
 I currently have no documention for my implimentation yet, however the code is heavily annotated for now.
 
